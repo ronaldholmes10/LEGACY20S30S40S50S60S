@@ -1,4 +1,8 @@
-body{ background-color: yellow}
+h1{color:red; background-color: blue; text-align: center; padding: 15px;
+}
 
-h1{
-    color:red; background-color: blue}
+p{color:white; margin: 100px;text-align: center;}
+
+h2{color: white;}
+
+body{ background-color: black;}
