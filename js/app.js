@@ -1,4 +1,6 @@
-function hello(name){
-   alert('Hi+name');
+function go(name, age){
+    alert(name);
+    alert(age);
 }
-hello(Ronnie);
+go('Ronnie', 41);
+go('Erin', 41);
